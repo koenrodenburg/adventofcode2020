@@ -1,4 +1,4 @@
-package Day14.part2;
+package day14.part2;
 
 import java.io.IOException;
 import java.nio.file.Files;
